@@ -1,0 +1,15 @@
+Tejidos jc 2006
+
+Necesidad 
+
+Vemos que la empresa Tejidos jc 2006 es una micro Empresa que maneja productos textiles ofreciendo sus productos al por mayor y de tal dónde 
+se manejan algunos procesos como entrada y salida de mercancía.  Cliente, vendedor, administrador, Proveedores, bodeguero donde esa empresa 
+no tiene ningún control de sus procesos. 
+vimos la necesidad de crear ese sistema para resolver sus Problemas para poder llevar una excelente producción por que La empresa ha perdido
+ recursos por no llevar control de sus entradas y salidas de Mercancía.
+
+Involucrados 
+
+Este proyecto va a beneficiar al cliente. donde el usuario administrador  va a poder tener la capacidad de conocer todos los procesos detallados 
+que se manejan en la empresa,  para poder llevar un exelente control y incrementar la productividad dela empresa .
+
